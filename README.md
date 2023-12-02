@@ -69,4 +69,4 @@ As always you'll turn in your `credentials.ini` through Canvas.
 
 ## Authors
 
-Michal Young, Ram Durairajan. Updated by Ali Hassani.
+Carsten Konyn
